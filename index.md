@@ -23,17 +23,21 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Citation
 
 ### Plain text:
-```js
+```
 A fast computational software for the geometrically nonlinear dynamics of hard-magnetic thin elastic structures.
 ```
 
 ### BibTex:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+@article{author2020title,
+title={Title of the article},
+author={Author, First and Author, Second},
+journal={Journal Name},
+volume={12},
+number={3},
+pages={123-456},
+year={2020},
+publisher={Publisher}
+}
 
 
 
