@@ -22,7 +22,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## Citation
 
-Plain text:
+### Plain text:
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
@@ -31,7 +31,7 @@ var fun = function lang(l) {
 }
 ```
 
-BibTex:
+### BibTex:
 ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
