@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./another-page.html).
 
 ## Abstract
@@ -16,9 +13,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-## Beam
+## Code
+[Magnetoelastic beam](https://github.com/zhuonanhao/mag_beam).
+[Magnetoelastic shell](https://github.com/zhuonanhao/mag_shell).
 
-## Plate
+## Demos
 
 ```js
 // Javascript code with syntax highlighting.
