@@ -28,6 +28,7 @@ A fast computational software for the geometrically nonlinear dynamics of hard-m
 ```
 
 ### BibTex:
+```bibtex
 @article{author2020title,
 title={Title of the article},
 author={Author, First and Author, Second},
@@ -38,6 +39,7 @@ pages={123-456},
 year={2020},
 publisher={Publisher}
 }
+```
 
 
 
