@@ -23,9 +23,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ## Citation
 
 ### Plain text:
-```
 A fast computational software for the geometrically nonlinear dynamics of hard-magnetic thin elastic structures.
-```
 
 ### BibTex:
 ```bibtex
