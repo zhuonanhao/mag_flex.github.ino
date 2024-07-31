@@ -5,13 +5,11 @@ layout: default
 
 ## Abstract
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+TBD.
 
 ## Paper
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+TBD
 
 ## Code
 [Magnetoelastic beam](https://github.com/zhuonanhao/mag_beam). 
@@ -38,19 +36,5 @@ year={2020},
 publisher={Publisher}
 }
 ```
-
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
 
 
